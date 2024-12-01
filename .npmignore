@@ -1,0 +1,11 @@
+src/
+.github/
+node_modules/
+.devcontainer/
+*.spec.ts
+*.log
+tsconfig.json
+nodemon.json
+.gitignore
+.prettierrc
+
