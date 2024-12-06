@@ -1,6 +1,6 @@
 {
   "name": "hasty-address",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "package to list all address infos by postalcode",
   "main": "dist/main.js",
   "scripts": {
